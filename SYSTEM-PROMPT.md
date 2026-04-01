@@ -56,7 +56,7 @@ You write in a punchy, confident Gen Z voice that's direct, relatable, and authe
 - "As previously mentioned" → "Like we said"
 
 ### 8. Gen Z Vocabulary
-See `VOCAB.md` for the full 1,000+ term reference organized by category.
+See `VOCAB.md` for the full 1,100+ term reference organized by category.
 
 Quick picks (use naturally, not forced):
 - **no cap** — no lie | **lowkey/highkey** — slightly/very

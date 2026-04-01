@@ -1438,3 +1438,105 @@ Use these naturally in content. Not all at once — sprinkle them where they fit
 | **reality** | unscripted genre |
 | **fiction** | made-up genre |
 | **non-fiction** | real genre |
+
+---
+
+## 🆕 Gabb.com Additions (Parental Reference Source)
+
+Terms sourced from gabb.com/blog/teen-slang/ — a comprehensive teen slang database.
+Added 2026-04-01. These fill gaps in the original vocabulary.
+
+| Term | Meaning | Example |
+|------|---------|---------|
+| **amped** | excited, hyped up | "I'm amped for the launch tonight!" |
+| **ate and left no crumbs** | did something so perfectly nobody could do better | "She ate and left no crumbs on that pitch deck" |
+| **beige flag** | something mundane or uninteresting (not red, not green) | "His alphabetized bookshelf is a beige flag" |
+| **bed rot** | spending extended time in bed doing nothing | "After shipping all week, I need some bed rot" |
+| **big back** | someone eating a lot (often used to shame) | "She ate the whole pizza. Big back behavior" |
+| **body count** | number of sexual partners (often asked about) | "Gen Z doesn't care about body count" |
+| **boo'd up** | being in a romantic relationship | "They finally boo'd up after months of flirting" |
+| **caught in 4K** | caught red-handed with evidence | "He was caught in 4K copy-pasting Stack Overflow" |
+| **cheugy** | out-of-date, trying too hard, not trendy | "Skinny jeans are so cheugy" |
+| **core** | aesthetic suffix (cottagecore, barbiecore) | "Her setup is very cottagecore" |
+| **crash out** | losing control, getting mad despite better judgment | "This deadline has me about to crash out" |
+| **dap** | handshake/greeting gesture | "That was sick! Dap me up!" |
+| **dayroom** | basic, uninteresting, boring | "That take is dayroom" |
+| **delulu** | delusional (affectionate or joking) | "His delulu theories are entertaining" |
+| **dip** | to leave suddenly | "I'm about to dip, this meeting is mid" |
+| **DL (down low)** | kept secret or discreet | "We're keeping it on the DL for now" |
+| **extra** | over the top, attention-grabbing | "She's too extra for this chill vibe" |
+| **fan service** | subtle nods to fans (easter eggs) | "This episode has major fan service" |
+| **fboi** | promiscuous, manipulative man (derogatory) | "She realized he was just another fboi" |
+| **FFA** | free for all — every player for themselves | "This sprint is pure FFA energy" |
+| **finna** | about to, going to (fixing to) | "I'm finna deploy this to prod" |
+| **finsta** | fake/private Instagram account | "She posts the real stuff on her finsta" |
+| **fit** | outfit | "Your fit today is fire" |
+| **flavored air** | vaping | "He always has flavored air" |
+| **fugly** | extremely ugly | "That color scheme is fugly" |
+| **furry** | fan of anthropomorphic animals | "He's a legit furry" |
+| **FW (f**k with)** | really like something | "I really fw this new framework" |
+| **gassing** | exaggerating someone's qualities | "Stop gassing him, he's mid" |
+| **girl math** | justifying purchases with unconventional logic | "Girl math: it's free because I used a gift card" |
+| **girl dinner** | random snacks as a meal | "Crackers and cheese? Girl dinner!" |
+| **glow-up** | major improvement or transformation | "This UI had a massive glow-up" |
+| **granola** | environmentally aware, outdoorsy person | "She's granola — hikes every weekend" |
+| **guap** | a lot of money | "That SaaS is making guap" |
+| **Gyat** | expression of admiration (goddamn) | "Gyat! Those shoes are fire" |
+| **hammered** | extremely intoxicated | "He was hammered at the afterparty" |
+| **heated** | angry or frustrated | "Don't get heated, it's just a bug" |
+| **heem** | the total package, a better version | "The new update is heem!" |
+| **high key** | openly, obviously, with high intensity | "I high key love this new feature" |
+| **highlighter kid** | child who wears neon colored clothes | "Can't miss him, he's a highlighter kid" |
+| **Hollywood** | negative behavior change after success | "He went Hollywood after the Series A" |
+| **hunty** | honey + c**t, term of endearment (LGBTQ+) | "Hey hunty, you look amazing!" |
+| **ick** | sudden feeling of disgust | "He chews with his mouth open — ick" |
+| **jittleyang** | something that grabs attention (TikTok origin) | "That landing page is a jittleyang!" |
+| **KDA** | kills/deaths/assists (gaming stat) | "Your KDA was insane this game" |
+| **keep it 100** | be honest, genuine, authentic | "I need someone who keeps it 100" |
+| **left on read** | message read but not responded to | "The investor left me on read 💀" |
+| **let them cook** | trust someone's abilities, give freedom | "Don't micromanage — let them cook" |
+| **lewk** | stylized spelling of 'look', a curated outfit | "She showed up in a stunning lewk" |
+| **LFG** | let's f***ing go (excitement) | "Launch day! LFG!" |
+| **looksmaxxing** | improving appearance through various methods | "He's been looksmaxxing all summer" |
+| **low taper fade** | hairstyle meme used randomly as joke | "But you know what else is cool? A low taper fade!" |
+| **mad** | really, extremely | "This is mad good" |
+| **meatriding** | excessively praising or defending someone | "The comments are full of meatriding" |
+| **menty b** | mental breakdown (abbreviated) | "I'm on the edge of a menty b" |
+| **mewing** | facial exercise for jawline definition | "Her jawline is snatched — she's been mewing" |
+| **mogging** | one-upping someone on appearance | "He's mogging everyone in the gym" |
+| **netflix and chill** | euphemism for hooking up | "He showed up with popcorn lol" |
+| **NGL** | not gonna lie | "Ngl this is better than expected" |
+| **on fleek** | perfectly done, on point | "Your eyebrows are on fleek" |
+| **on point** | perfect, exactly right | "His outfit is on point" |
+| **Only in Ohio** | used for strange/cursed things | "Why is there a raccoon in the server room? Only in Ohio" |
+| **ops** | opponents (gaming or real life) | "The ops got him sent to the principal" |
+| **OTP** | one true pairing (favorite couple) | "I've shipped this OTP since episode one" |
+| **plug** | person who supplies hard-to-find things | "Her brother is the plug" |
+| **poggers** | excitement or amazement (gaming origin) | "Chat went poggers when he clutched" |
+| **preppy** | colorful, girly aesthetic with name brands | "Your setup is so preppy" |
+| **pressed** | annoyed or stressed about something | "Why are you so pressed?" |
+| **pulling** | attracting romantic interest | "He pulled five girls at the party" |
+| **put on blast** | embarrass someone publicly | "She put him on blast for ghosting" |
+| **ratchet** | out of control or tacky | "These ratchet vibes are not it" |
+| **read** | publicly pointing out flaws | "She was reading me all night" |
+| **rizzler** | someone very good at flirting | "Total rizzler — got her number in 30 seconds" |
+| **slim thick** | body type: slim waist with wider hips | "She's got that slim thick figure" |
+| **smol** | small, cute, endearing | "That smol bot is adorable" |
+| **snack** | someone attractive | "The new hire is a total snack" |
+| **sneaky link** | secret hookup or relationship | "We were sneaky links last summer" |
+| **stoked** | very excited | "I'm so stoked for this release" |
+| **swole** | having big muscles | "My goal is to get swole by summer" |
+| **take a seat** | dismissive remark to calm someone | "I have it under control — take a seat" |
+| **thot** | derogatory term for promiscuous person | "Used mainly in meme culture" |
+| **thirst trap** | provocative content for attention | "All his posts are thirst traps" |
+| **twin** | close friend, like a sibling | "Hey twin, when you coming over?" |
+| **twizzy** | variation of twin (friend) | "Hey twizzy!" |
+| **unc** | cool older person / uncle | "I've reached unc status" |
+| **upper decky** | nicotine pouch against upper gums | "Never seen her without an upper decky" |
+| **vanilla** | ordinary, boring, basic | "His taste is so vanilla" |
+| **vsco girl** | trendy girl aesthetic (Hydro Flask, Birks) | "She's definitely a vsco girl" |
+| **wallflower** | introvert, avoids the limelight | "She's a wallflower at parties" |
+| **weird flex but ok** | acknowledging someone's unusual boast | "Weird flex but ok" |
+| **wig snatched** | extreme amazement, wig flying off | "That demo had my wig snatched" |
+| **woke** | aware of social injustices | "Stay woke about data privacy" |
+| **6-7** | viral nonsensical teen response | "'How's the build?' '6-7'"
